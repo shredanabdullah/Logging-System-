@@ -40,5 +40,3 @@ https://www.kapwing.com/videos/64b2211dd133ea0024a99a9d
     <br />
     <sub><b>Shredan Abdallah</b></sub></a>
     </td>
-
-A program for making logging system in c programming
